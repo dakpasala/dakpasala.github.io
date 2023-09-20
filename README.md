@@ -1,4 +1,4 @@
 # Dakshesh's Personal Website
 This is a personal website built using the Hack4Impact Starter Pack!
 
-gi
+Visit it here! (https://dakpasala.github.io)
